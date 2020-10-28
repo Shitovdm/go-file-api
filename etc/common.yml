@@ -1,0 +1,7 @@
+api:
+  fileApi: 8093
+  pingApi: 8092
+fs:
+  rootDir: ./data
+log:
+  category: file-api
